@@ -203,6 +203,8 @@ ul {
 
 
 #bt {
+    outline: none;
+    border: none;
     padding: 10px;
     background-color: #ff5959;
     text-decoration: none;
