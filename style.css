@@ -18,6 +18,7 @@ body {
 
 }
 
+
 .text-align {
 
     text-align: center;
@@ -143,4 +144,28 @@ h2 {
     color: gray;
     width: 50%;
     margin-bottom: 40px;
+}
+
+footer {
+
+    text-align: center;
+    background-color: #0B0D17;
+
+
+    width: -100px;
+    height: 150px;
+
+}
+
+footer p {
+
+    color: white;
+    font-size: 13px;
+}
+
+footer h3 {
+
+    font-size: 25px;
+    padding-top: 30px;
+    color: #ff5959;
 }
