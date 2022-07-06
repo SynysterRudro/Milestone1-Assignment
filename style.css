@@ -57,6 +57,11 @@ h2 {
 
 }
 
+#donate-padding {
+
+    margin-left: 600px;
+}
+
 .flexible-container {
 
     display: flex;
@@ -65,6 +70,7 @@ h2 {
 .resizingTk {
 
 
+    margin-top: 30px;
     margin-left: 50px;
     margin-right: 50px;
     padding-left: 30px;
@@ -84,6 +90,7 @@ h2 {
 }
 
 .resizingTk h2 {
+
 
     padding-right: 30px;
 }
@@ -122,7 +129,12 @@ h2 {
 #other-amount {
 
     margin-top: 50px;
-    margin-left: 300px;
+    margin-left: 600px;
+
+    outline: none;
+    font-size: 15px;
+    border: none;
+
 
 }
 
@@ -130,4 +142,5 @@ h2 {
 
     color: gray;
     width: 50%;
+    margin-bottom: 40px;
 }
