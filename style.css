@@ -24,9 +24,10 @@ body {
     padding-top: 100px;
 }
 
+
 .text-align p {
 
-    color: white;
+    color: gray;
     padding-left: 30%;
     padding-right: 30%;
     margin-bottom: 30px;
@@ -35,6 +36,12 @@ body {
 h1 {
 
     font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bolder;
+
 }
 
 .donate-now {
@@ -47,5 +54,21 @@ h1 {
     padding: 13px 25px;
     margin-top: 50px;
     border-radius: 10px;
+
+}
+
+.flexible-container {
+
+    display: flex;
+}
+
+.resizingTk {
+
+
+
+    margin-left: 100px;
+    margin-right: 5px;
+    padding-left: 30px;
+    background-color: #ececec;
 
 }
