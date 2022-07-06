@@ -149,6 +149,7 @@ h2 {
 
 footer {
 
+
     text-align: center;
     background-color: #0B0D17;
 
@@ -160,13 +161,15 @@ footer {
 
 footer p {
 
+
     color: white;
     font-size: 13px;
 }
 
 footer h3 {
 
-    font-size: 25px;
-    padding-top: 30px;
+    font-family: 'The Nautigal', cursive;
+    font-size: 35px;
+    padding-top: 20px;
     color: #ff5959;
 }
