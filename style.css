@@ -147,6 +147,25 @@ h2 {
     margin-bottom: 40px;
 }
 
+#email-field {
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 450px;
+
+    border: none;
+    outline: none;
+
+    background-color: #D9D9D9;
+    height: 40px;
+    width: 250px;
+
+    border: 90px solid #FFF4D6;
+    border-top: 100px;
+
+
+}
+
 footer {
 
 
