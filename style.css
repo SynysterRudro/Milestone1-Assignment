@@ -178,6 +178,10 @@ ul {
     top: -130px;
 }
 
+#txt-aln {
+
+    text-align: center;
+}
 
 .sub-sec {
     background-color: #fff4d6;
